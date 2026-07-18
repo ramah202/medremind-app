@@ -128,6 +128,9 @@ Open the application using **Expo Go** or an Android/iOS emulator.
 
 ## 📸 Screenshots
 
+
+### 🔐 Authentication & Profile
+
 <p align="center">
   <table>
     <tr>
@@ -139,28 +142,58 @@ Open the application using **Expo Go** or an Android/iOS emulator.
         <em>Secure user authentication</em>
       </td>
       <td align="center">
-        <img src="screenshots/calendar.jpg" alt="Calendar View" width="250" />
+        <img src="screenshots/profile.jpg" alt="User Profile" width="250" />
         <br />
-        <strong>📅 Schedule</strong>
+        <strong>👤 Profile</strong>
         <br />
-        <em>Daily medication calendar</em>
+        <em>Manage personal information</em>
+      </td>
+      <td align="center">
+        <img src="screenshots/notifications.jpg" alt="Notifications" width="250" />
+        <br />
+        <strong>🔔 Notifications</strong>
+        <br />
+        <em>Medication reminders & device status</em>
+      </td>
+    </tr>
+  </table>
+</p>
+
+### 💊 Medication Management
+
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="screenshots/meds.jpg" alt="My Medications" width="250" />
+        <br />
+        <strong>💊 My Medications</strong>
+        <br />
+        <em>View all active medications</em>
       </td>
       <td align="center">
         <img src="screenshots/ad-medication.jpg" alt="Add Medication" width="250" />
         <br />
-        <strong>💊 Add Medication</strong>
+        <strong>➕ Add Medication</strong>
         <br />
-        <em>Add and schedule medications</em>
+        <em>Add and schedule new medications</em>
+      </td>
+      <td align="center">
+        <img src="screenshots/calendar.jpg" alt="Schedule Calendar" width="250" />
+        <br />
+        <strong>📅 Schedule</strong>
+        <br />
+        <em>Daily medication calendar view</em>
       </td>
     </tr>
+  </table>
+</p>
+
+### 📊 Tracking & Caregiver
+
+<p align="center">
+  <table>
     <tr>
-      <td align="center">
-        <img src="screenshots/caregiver.jpg" alt="Caregiver View" width="250" />
-        <br />
-        <strong>👨‍⚕️ Caregiver</strong>
-        <br />
-        <em>Monitor patient adherence</em>
-      </td>
       <td align="center">
         <img src="screenshots/history.jpg" alt="Medication History" width="250" />
         <br />
@@ -169,11 +202,18 @@ Open the application using **Expo Go** or an Android/iOS emulator.
         <em>Track medication adherence</em>
       </td>
       <td align="center">
-        <img src="screenshots/profile.jpg" alt="User Profile" width="250" />
+        <img src="screenshots/caregiver.jpg" alt="Patient Details" width="250" />
         <br />
-        <strong>👤 Profile</strong>
+        <strong>👨‍⚕️ Patient Details</strong>
         <br />
-        <em>Manage personal information</em>
+        <em>Monitor patient adherence</em>
+      </td>
+      <td align="center">
+        <img src="screenshots/caregiver-main.jpg" alt="Caregiver Connect" width="250" />
+        <br />
+        <strong>🤝 Care Connect</strong>
+        <br />
+        <em>Connect with patients & caregivers</em>
       </td>
     </tr>
   </table>
