@@ -128,7 +128,56 @@ Open the application using **Expo Go** or an Android/iOS emulator.
 
 ## 📸 Screenshots
 
-Screenshots will be added soon.
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="screenshots/login.jpg" alt="Login Screen" width="250" />
+        <br />
+        <strong>🔐 Login</strong>
+        <br />
+        <em>Secure user authentication</em>
+      </td>
+      <td align="center">
+        <img src="screenshots/calendar.jpg" alt="Calendar View" width="250" />
+        <br />
+        <strong>📅 Schedule</strong>
+        <br />
+        <em>Daily medication calendar</em>
+      </td>
+      <td align="center">
+        <img src="screenshots/ad-medication.jpg" alt="Add Medication" width="250" />
+        <br />
+        <strong>💊 Add Medication</strong>
+        <br />
+        <em>Add and schedule medications</em>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="screenshots/caregiver.jpg" alt="Caregiver View" width="250" />
+        <br />
+        <strong>👨‍⚕️ Caregiver</strong>
+        <br />
+        <em>Monitor patient adherence</em>
+      </td>
+      <td align="center">
+        <img src="screenshots/history.jpg" alt="Medication History" width="250" />
+        <br />
+        <strong>📋 History</strong>
+        <br />
+        <em>Track medication adherence</em>
+      </td>
+      <td align="center">
+        <img src="screenshots/profile.jpg" alt="User Profile" width="250" />
+        <br />
+        <strong>👤 Profile</strong>
+        <br />
+        <em>Manage personal information</em>
+      </td>
+    </tr>
+  </table>
+</p>
 
 ---
 
