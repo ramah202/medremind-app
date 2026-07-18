@@ -128,8 +128,9 @@ Open the application using **Expo Go** or an Android/iOS emulator.
 
 ## 📸 Screenshots
 
+## 📸 Screenshots
 
-### 🔐 Authentication & Profile
+### 🔐 Authentication & Home
 
 <p align="center">
   <table>
@@ -142,18 +143,18 @@ Open the application using **Expo Go** or an Android/iOS emulator.
         <em>Secure user authentication</em>
       </td>
       <td align="center">
-        <img src="screenshots/profile.jpg" alt="User Profile" width="250" />
+        <img src="screenshots/home.jpg" alt="Home Screen" width="250" />
         <br />
-        <strong>👤 Profile</strong>
+        <strong>🏠 Home</strong>
         <br />
-        <em>Manage personal information</em>
+        <em>Dashboard & device status</em>
       </td>
       <td align="center">
         <img src="screenshots/notifications.jpg" alt="Notifications" width="250" />
         <br />
         <strong>🔔 Notifications</strong>
         <br />
-        <em>Medication reminders & device status</em>
+        <em>Medication reminders & alerts</em>
       </td>
     </tr>
   </table>
@@ -202,18 +203,18 @@ Open the application using **Expo Go** or an Android/iOS emulator.
         <em>Track medication adherence</em>
       </td>
       <td align="center">
-        <img src="screenshots/caregiver.jpg" alt="Patient Details" width="250" />
+        <img src="screenshots/caregiver.jpg" alt="Caregiver View" width="250" />
         <br />
-        <strong>👨‍⚕️ Patient Details</strong>
+        <strong>👨‍⚕️ Caregiver</strong>
         <br />
         <em>Monitor patient adherence</em>
       </td>
       <td align="center">
-        <img src="screenshots/caregiver-main.jpg" alt="Caregiver Connect" width="250" />
+        <img src="screenshots/profile.jpg" alt="User Profile" width="250" />
         <br />
-        <strong>🤝 Care Connect</strong>
+        <strong>👤 Profile</strong>
         <br />
-        <em>Connect with patients & caregivers</em>
+        <em>Manage personal information</em>
       </td>
     </tr>
   </table>
